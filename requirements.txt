@@ -1,0 +1,5 @@
+pyspark
+jupyterlab
+pandas
+pyyaml
+delta-spark

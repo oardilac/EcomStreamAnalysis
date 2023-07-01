@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "product_searched": "Workout Leggins for women",
+        "customer_id": "10",
+        "location_id": "3200",
+        "CreateDate": "2023-06-28 15:30:20"
+    },
+    {
+        "id": "2",
+        "product_searched": "Apple Iphone 14",
+        "customer_id": "7",
+        "location_id": "2110",
+        "CreateDate": "2023-06-28 16:00:00"
+    }
+]
